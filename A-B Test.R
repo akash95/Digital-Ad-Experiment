@@ -63,7 +63,7 @@ paste("Percent diff:", round(percent_diff_gamer,2))
 # If there is large and statistically significant difference between the test and control groups it suggests that the groups are not probabilistically equivalent. In such a case, we should try to identify the source of the difference and address it before running the experiment.
 # The reasons could be sampling bias or counfounding variable.
 
-#Q1.d (Need to revise)
+#Q1.d 
 #When dealing with large datasets, traditional statistical significance tests may not be appropriate. Instead, we can use methods like bootstrapping or permutation tests, which are computationally intensive but can handle large samples. Bootstrapping involves repeatedly resampling the data to generate many simulated samples, calculating the statistic of interest for each sample, and then calculating the confidence interval or p-value from the distribution of the statistic. Permutation tests involve randomly permuting the treatment labels and computing the statistic of interest for each permutation. The p-value is then calculated as the proportion of permutations that yield a statistic as extreme or more extreme than the observed statistic.
 
 #Q2.a All customers
