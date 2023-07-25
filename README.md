@@ -1,4 +1,4 @@
-# A-B-Test-on-Digital-Ads
+# Analyzing Results of A/B Test ran on Digital Ads
 A mobile game developer firm (Game-Fun) ran an online display banners advertising campaign with the primary objective of increasing its sales on gaming subscription packages. To attract new users, the display ad advertised their most popular game and offered the user a promotion of a $25 signing-up bonus. The credits would appear in the customer’s game account and could be used to purchase any further in-app features. Based on historical data, a new customer subscription brings a revenue of $37.5 on average. This results in a net inflow of $12.5 after the $25 credit for the users acquired through this promotion.
 The A/B experiment worked as follows. Before the start of the digital ad campaign, Game Fun chose two different websites (“content publishers”) to run the experiment on. The content
 publishers have randomly assigned their web users to test and control groups. As users browsed the two websites, the advertising servers checked whether a given user should be shown a
